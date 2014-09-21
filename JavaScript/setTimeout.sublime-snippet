@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[window.setTimeout(function(){$0}, ${1:10});]]></content>
+    <tabTrigger>setTimeout</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTimeout function</description>
+</snippet>

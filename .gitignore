@@ -1,0 +1,6 @@
+*.cache
+Package Control*
+
+*.sublime-project
+*.sublime-workspace
+
