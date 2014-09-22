@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[function${2: function_name}(${3:args}){${0}}${1}]]></content>
+    <content><![CDATA[function${2: foo}(${3}){${0}}${1}]]></content>
     <tabTrigger>function</tabTrigger>
     <scope>source.js</scope>
     <description>Function</description>
